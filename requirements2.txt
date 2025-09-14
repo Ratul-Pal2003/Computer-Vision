@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+nibabel
+nilearn
+pybids
+bids-validator
+jupyterlab
+ipykernel
+scikit-learn
+scipy
